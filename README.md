@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Travel Budget APP](https://github.com/yuhwaa/react-budget-app)
 
-- 🌱 I’m currently learning **AWS and C++**
+- 🌱 I’m learning **AWS and C++**
 
 <!--- 👯 I’m looking to collaborate on **Projectly**
 
