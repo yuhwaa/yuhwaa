@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **AWS and C++**
 
-- 👯 I’m looking to collaborate on **Projectly**
+<!--- 👯 I’m looking to collaborate on **Projectly**
 
-- 🤝 I’m looking for help with [Travel Budget APP](https://github.com/yuhwaa/react-budget-app)
+- 🤝 I’m looking for help with [Travel Budget APP](https://github.com/yuhwaa/react-budget-app)-->
 
 - 👨‍💻 All of my projects are available at [https://yuhwachen.netlify.app/](https://yuhwachen.netlify.app/)
 
