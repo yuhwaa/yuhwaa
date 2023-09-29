@@ -19,7 +19,7 @@
 
 <h3 align="left">Work with Yu:</h3>
 
-- 👩🏻‍💻 All of my projects are available at [https://yuhwachen.netlify.app/](https://yuhwachen.netlify.app/)
+- 👩🏻‍💻 All of my projects: [Portfolio](https://yuhwachen.netlify.app/)
 - 📫 How to reach me: **yuhwa.swe@gmail.com** (ask me about **my next dream destination**)
 
 - 📄 Know more about my experiences: [Link to Résumé](https://docs.google.com/document/d/1UHupPnbfeR7xN3FQC_LGrlnmvXgTDSQl/edit?usp=sharing&ouid=104007525140537871303&rtpof=true&sd=true)
