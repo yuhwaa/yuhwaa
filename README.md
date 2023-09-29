@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuhwaa&label=Profile%20views&color=0e75b6&style=flat" alt="yuhwaa" /> </p>
 
-- 🔭 I’m currently working on [Travel Budget APP](https://github.com/yuhwaa/react-budget-app)
+<div align="center">
+**What Yu is doing at the moment:** 
 
-- 🌱 I’m learning **AWS and C++**
+- 🔧 I am currently working on [Travel Budget APP](https://github.com/yuhwaa/react-budget-app)
 
-<!--- 👯 I’m looking to collaborate on **Projectly**
+- 🤓 I am learning **React and AWS**
 
-- 🤝 I’m looking for help with [Travel Budget APP](https://github.com/yuhwaa/react-budget-app)-->
+- ✈️ Putting together ideas for my upcoming trip(s)
 
-- 👨‍💻 All of my projects are available at [https://yuhwachen.netlify.app/](https://yuhwachen.netlify.app/)
+- 👩🏻‍💻 All of my projects are available at [https://yuhwachen.netlify.app/](https://yuhwachen.netlify.app/)
+</div>
 
-- 💬 Ask me about **React and my next dream destination**
+<h3 align="left">Work with Yu:</h3>
 
-- 📫 How to reach me **yuhwa.swe@gmail.com**
+- 📫 How to reach me **yuhwa.swe@gmail.com** (ask me about **my next dream destination**)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1UHupPnbfeR7xN3FQC_LGrlnmvXgTDSQl/edit?usp=sharing&ouid=104007525140537871303&rtpof=true&sd=true](https://docs.google.com/document/d/1UHupPnbfeR7xN3FQC_LGrlnmvXgTDSQl/edit?usp=sharing&ouid=104007525140537871303&rtpof=true&sd=true)
+- 📄 Know more about my experiences [Link to Résumé](https://docs.google.com/document/d/1UHupPnbfeR7xN3FQC_LGrlnmvXgTDSQl/edit?usp=sharing&ouid=104007525140537871303&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am a cat lady without cats (hopefully that changes soon!) I also love dogs, especially Samoyeds <3**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Yu:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yu-hwa-chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yu-hwa-chen" height="30" width="40" /></a>
 </p>
