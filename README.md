@@ -7,7 +7,7 @@
 
 **👩🏻‍🔬 What I am doing at the moment:** 
 
-🔧 Currently working on [Travel Budget APP](https://github.com/yuhwaa/react-budget-app)
+🔧 Currently working on a <u>secret app</u>.
 
 🤓 I am learning **React and AWS**
 
