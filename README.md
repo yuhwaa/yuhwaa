@@ -7,7 +7,7 @@
 
 **👩🏻‍🔬 What I am doing at the moment:** 
 
-🔧 Currently working on a <u>secret app</u>.
+🔧 Currently working on the <u>Echo App(https://github.com/yuhwaa/echo-app)</u>.
 
 🤓 I am learning **React and AWS**
 
