@@ -18,7 +18,7 @@
 - 👩🏻‍💻 All of my projects: [Portfolio](https://yuhwachen.netlify.app/)
 - 📫 How to reach me: [E-mail](yuhwa.swe@gmail.com) (ask me about **my next dream destination**)
 
-- 📄 Know more about my experiences: [Link to Résumé](https://docs.google.com/spreadsheets/d/1o-G-_iakTd4hiz34fzYZn5ZOQaWgeG4o7nd7pAPvFuE/edit?usp=sharing)
+- 📄 Know more about my experiences: [Link to Resume](https://drive.google.com/file/d/1AFln9q2bA96tPppNerUVtvCcRmMtxEJU/view?usp=sharing)
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
