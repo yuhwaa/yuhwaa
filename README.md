@@ -7,11 +7,7 @@
 
 **👩🏻‍🔬 What I am doing at the moment:** 
 
-🔧 Currently working on the <u>Echo App(https://github.com/yuhwaa/echo-app)</u>.
-
-🤓 I am learning **React and AWS**
-
-✈️ Putting together ideas for my upcoming trip(s)
+🔧 Currently working on the <u>[Echo App](https://github.com/yuhwaa/echo-app)</u>.
 
 </div>
 
@@ -22,7 +18,7 @@
 - 👩🏻‍💻 All of my projects: [Portfolio](https://yuhwachen.netlify.app/)
 - 📫 How to reach me: [E-mail](yuhwa.swe@gmail.com) (ask me about **my next dream destination**)
 
-- 📄 Know more about my experiences: [Link to Résumé](https://docs.google.com/document/d/1UHupPnbfeR7xN3FQC_LGrlnmvXgTDSQl/edit?usp=sharing&ouid=104007525140537871303&rtpof=true&sd=true)
+- 📄 Know more about my experiences: [Link to Résumé](https://docs.google.com/spreadsheets/d/1o-G-_iakTd4hiz34fzYZn5ZOQaWgeG4o7nd7pAPvFuE/edit?usp=sharing)
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
